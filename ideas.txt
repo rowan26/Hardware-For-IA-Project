@@ -1,0 +1,14 @@
+Nom du sujet : suivis de l'évolution du coût, du temps et de la qualité en fonction des images traitées.
+
+problématique : comment optimiser notre consommation d'énergie en limitant la perte de performance ?
+
+
+but : 
+On prend des images de qualité différentes, on va utiliser l'intelligence artificielle afin de les classifier.
+
+est ce que la qualité influe-t-elle la consommation, le cout etc ? et vice versa(peut etre)
+
+la qualité des images influe la qualité de traitement ( visualiser ça avec un nuage de points classifier) : essayer de filtrer les images, les nuances de couleurs, la taille des images etc
+
+répondre à la problématique.
+ccl.
